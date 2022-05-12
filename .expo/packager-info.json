@@ -4,5 +4,7 @@
   "packagerPort": 19000,
   "expoServerNgrokUrl": "https://ef-cuv.anonymous.mini-game-react-app.exp.direct",
   "packagerNgrokUrl": "https://ef-cuv.anonymous.mini-game-react-app.exp.direct",
-  "ngrokPid": 14260
+  "ngrokPid": 20140,
+  "packagerPid": null,
+  "webpackServerPort": null
 }
